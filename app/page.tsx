@@ -8,7 +8,7 @@ export default function Home() {
           <li className="mb-2">
             CSM, Customer Success Manager, Digital Success 2025.{" "}
           </li>
-          <li>View Jessie's LinkedIn Profile here:</li>
+          <li>View my LinkedIn Profile here:</li>
           <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
             https://www.linkedin.com/in/jessie-chapman/
             </code>
